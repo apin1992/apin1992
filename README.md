@@ -1,4 +1,5 @@
-![Developer]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26nRZlSRlczJKdr2-2kMjo6roRCBc2Upr-A&usqp=CAU](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg]))
+
+file:///home/ubuntu/Pictures/Screenshots/Screenshot%20from%202023-10-18%2010-23-24.png
 
 # Martin Perez
 #### Developer
