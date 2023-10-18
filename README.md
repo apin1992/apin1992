@@ -1,4 +1,4 @@
-![Developer]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26nRZlSRlczJKdr2-2kMjo6roRCBc2Upr-A&usqp=CAU](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
+![Developer]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26nRZlSRlczJKdr2-2kMjo6roRCBc2Upr-A&usqp=CAU](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg))
 
 # Martin Perez
 #### Developer
