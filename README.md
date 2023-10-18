@@ -1,10 +1,13 @@
-### Hi there 👋, Martin Perez
+![Developer]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26nRZlSRlczJKdr2-2kMjo6roRCBc2Upr-A&usqp=CAU](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg))
+
+# Martin Perez
 #### Developer
-![Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26nRZlSRlczJKdr2-2kMjo6roRCBc2Upr-A&usqp=CAU)
 
 I'm Martin from Mexico, I'm a front-end web developer. I enjoy learning different coding languages, frameworkds and new ways to take my web development career to the next level. Check out my new websites with a Star Wars theme at w[ww.yoda-project](https://anakin-project-1992.netlify.app/) , [https://yoda-project-1992.netlify.app/](https://yoda-project-1992.netlify.app)
 
-Skills: JS / HTML / CSS
+## Skills
+JavaScipt | HTML | CSS
+
 
 - 🔭 I’m currently working on New Projects 
 - 🌱 I’m currently learning React 
