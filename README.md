@@ -8,7 +8,6 @@ I'm Martin from Mexico, I'm a front-end web developer. I enjoy learning differen
 ## Skills
 JavaScipt | HTML | CSS
 
-
 - 🔭 I’m currently working on New Projects 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Javascript Projects 
