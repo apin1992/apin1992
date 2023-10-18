@@ -1,5 +1,3 @@
-### Hi there
-
 ### Hi there 👋, Martin Perez
 #### Developer
 ![Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26nRZlSRlczJKdr2-2kMjo6roRCBc2Upr-A&usqp=CAU)
